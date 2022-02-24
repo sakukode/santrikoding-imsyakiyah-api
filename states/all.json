@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "code": "q2hLFtgxxMFIriCYsUjR4EyExHaTISM4UM6nqxBPKFw88uqkqgo43hMyKYNzXcNJFZ8mHPI4bsovvnWwj2MXhA%3D%3D",
+        "name": "PUSAT"
+    },
+    {
+        "id": 2,
+        "code": "Jqizr5u%2FC%2FNvRIWQD9MGPBfz%2BMwFaV3%2BVgqRm7ZK2DsN600rX%2F6rCcu%2FeatGAk2lMiFwxuqG%2FnaZ46wH80rqyg%3D%3D",
+        "name": "ACEH"
+    },
+    {
+        "id": 3,
+        "code": "b7bM19iPV1Pd3%2FifwZkT2uHVvQrwQiTm2ha0WNKP7NnBUL65VzNfyRi0SRIPWJEcNvNtwvxcVYcOJZqBfj02vg%3D%3D",
+        "name": "SUMATERA UTARA"
+    },
+    {
+        "id": 4,
+        "code": "rP%2B81HDxT7Brx3%2FqrJ8nLUiRbKrrlqye4CQVH3EBoN0oNZGdbH43P1dlKkkszdExbUaC%2FbNtrQ6IP0l04KIfyg%3D%3D",
+        "name": "SUMATERA BARAT"
+    },
+    {
+        "id": 5,
+        "code": "6XW9QgR%2BfuvzsgEKvdjEcX6kL81225Z6hhFrg733yu7%2BPOBDwKjMtdedEaoZfIzuiAx6zA%2FqUphTeZn5IoWMMA%3D%3D",
+        "name": "RIAU"
+    },
+    {
+        "id": 6,
+        "code": "Ad%2FZJ5CkCBtxX7auXJB8Dxh%2Ftc35VYnzD2RZRPGCnf5a1LZjC2ixtq4ggvKHJElQ5rBG%2FHeP4giT2hZKvjJ2eg%3D%3D",
+        "name": "KEPULAUAN RIAU"
+    },
+    {
+        "id": 7,
+        "code": "rlbX%2FuznQr8gf7ieRYmBNMpujNo1KPMVtKKkJrVbP7YA0iSKWJ0UAxpDxw1Bv0jtvDDfJxOI9ITN%2FTYYf93JwA%3D%3D",
+        "name": "JAMBI"
+    },
+    {
+        "id": 8,
+        "code": "snmzcIxGk7pWarysnXD07vjVQIPgFKZ4QUFb6%2FI4%2B95ZL0yyY3oy5MMnGFv%2Fo4geXqYE3wbI%2BZzoqw%2BaRFdLpg%3D%3D",
+        "name": "BENGKULU"
+    },
+    {
+        "id": 9,
+        "code": "f6ByC8%2FT9Ntt3xFSoyh9tNAm6Hax90vAGeMzhf%2Boo7yUoZKSqNnGUabLdz52h4EhMScVTLf7RIUKRLW4Kv5PnA%3D%3D",
+        "name": "SUMATERA SELATAN"
+    },
+    {
+        "id": 10,
+        "code": "qvdL076ky%2B1rWKeZIJw%2BdVQyfS91BVUJ%2BscyNkrtvc2P1Of%2BKMSrb7c5Z8g%2Be%2BUjMs16%2BRIxRxhgjMcJyq2yWA%3D%3D",
+        "name": "KEPULAUAN BANGKA BELITUNG"
+    },
+    {
+        "id": 11,
+        "code": "%2B3tvtzUQPb70Q0MCTHkzaqc1ltYTYv5nuh21Y9SKKo1XoPYRet7C6T%2FwzHLRCkPDjO8ydXoG5nRf8NauChK1wQ%3D%3D",
+        "name": "LAMPUNG"
+    },
+    {
+        "id": 12,
+        "code": "2tQFcGOCffUkgM7EuOAKViMln5mCB01EUjVXZ%2Fc37MQMhyEOc6YRSfrOTU3lOW3baMxElon9hQ5ZpBF2Ez373Q%3D%3D",
+        "name": "BANTEN"
+    },
+    {
+        "id": 13,
+        "code": "jHmGZN1Abw26OLYUFJ6CMC%2Ful%2BLn39My5vu1IDLVmKub%2F7amc%2F8KNWE78WDulWOS4xhiWYfcex3ErFjMTf10FQ%3D%3D",
+        "name": "JAWA BARAT"
+    },
+    {
+        "id": 14,
+        "code": "%2F3sM%2BuQyYUEpEKzZXZ7E5w7WPYs5rhjiD%2FVDOKmW5jF0KTSu%2FP17rwFivdZ5VsHOSgA2dxJ58urghNHh6ws4%2Fg%3D%3D",
+        "name": "DKI JAKARTA"
+    },
+    {
+        "id": 15,
+        "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+        "name": "JAWA TENGAH"
+    },
+    {
+        "id": 16,
+        "code": "bfnMw%2FQ9gqkU%2B%2Fk8fH80jrkoHARH26pB%2Fr%2FxvKBMG3sZdyaYNQLIsjwCJlsAhkaru93cUo3MuTpDpG%2FKm9DeGQ%3D%3D",
+        "name": "D.I. YOGYAKARTA"
+    },
+    {
+        "id": 17,
+        "code": "iQftBN1RLYN2uVop3W96uuTYlY04TAtV6kmwMkD728fzuiv20qQIX6A%2FJroQEHSKxewLfJrz1IRDpgxAEd%2BovA%3D%3D",
+        "name": "JAWA TIMUR"
+    },
+    {
+        "id": 18,
+        "code": "DsaikrGxKDP1YUni3ylI%2FmsqaSGFOFLnV5M2rM1BL71LNuPneY3vPOGWJt2UwPerkWMQsIFdkTEcc%2B1l2S6GGg%3D%3D",
+        "name": "BALI"
+    },
+    {
+        "id": 19,
+        "code": "siU%2BquhbuJ%2FNLHTLi30ANoH04petArVMOX0zXQsSx94oUKPTz7yLGyg%2BgGAHmCPw6YTnwKAoYcmIrwl7Eq6PjA%3D%3D",
+        "name": "NUSA TENGGARA BARAT"
+    },
+    {
+        "id": 20,
+        "code": "UcEkuazdbDKCT13gnxhpC29HDXarC%2F8IhUk%2BBlKHAMPmFpwgNXWK1ga%2FuZQE4mK4JgWnufz4e3cUgb41F%2BV59g%3D%3D",
+        "name": "NUSA TENGGARA TIMUR"
+    },
+    {
+        "id": 21,
+        "code": "p2QHog8Nho4gab6XSiNo81WvivjzRIyy6ZWB%2FPU%2FuC0JxqJTG%2FCpxRkslZPA81UgMyeJL9SExfPmrp2Rd0q0NQ%3D%3D",
+        "name": "KALIMANTAN BARAT"
+    },
+    {
+        "id": 22,
+        "code": "5wZGCvPU7halBwdD6WJrhFJ7oC6wJpRPF%2F0YHyclEwHwjhbkkyxAyd6BZGK571JOYQ23d%2BkNxFbCeYpRU7%2BtrA%3D%3D",
+        "name": "KALIMANTAN SELATAN"
+    },
+    {
+        "id": 23,
+        "code": "pb9ulJt%2F7oerL7rk2%2FkBW8WOZlIFHrToL8aKNC9dDjElrChNMyOdWvmD%2F19aew8ueYshLqiOyNqe1cdeOnObPA%3D%3D",
+        "name": "KALIMANTAN TENGAH"
+    },
+    {
+        "id": 24,
+        "code": "gOHxIN1k3tkowbjMPD4lAXxw66WTL%2BmOR6qdg6VfNrxG4msYhhJQrmu0S7WKUi2W8yDhHXDdN3wqgOHp3191tg%3D%3D",
+        "name": "KALIMANTAN TIMUR"
+    },
+    {
+        "id": 25,
+        "code": "wzpZ61n%2FGZXDgk8N1XVYI9v1TBWcXJtLY%2Fc4%2Fi83jSIu9eiDtkmUJdkNu8tWMhMiZpIZrifjsyZ0BY5zDU8vTw%3D%3D",
+        "name": "KALIMANTAN UTARA"
+    },
+    {
+        "id": 26,
+        "code": "%2FANmROwbpO0%2B9wUKNtw0lPzm4AsMz0vCUTai4qEbkceadHqnFHIKvUkNyMvjHT7d75LvzCFih5OGNMawUskIsw%3D%3D",
+        "name": "GORONTALO"
+    },
+    {
+        "id": 27,
+        "code": "TbkUaheAPnaQULadXeJYPm%2BIHrGUY6Oh%2Bdiey0pu%2BsD%2BdUXJzKg5FxufrgIOe1Kk97nZFwXZiuAFrcFLuHSjHg%3D%3D",
+        "name": "SULAWESI SELATAN"
+    },
+    {
+        "id": 28,
+        "code": "BLs970T%2BMgWyUe%2ByvoyAe2cPpwXVtIrbm7%2BcwtaoVqPxABigDqoQlDgvlIejFulFa6dU6ubfne2dQ3Kp6YzrOA%3D%3D",
+        "name": "SULAWESI TENGGARA"
+    },
+    {
+        "id": 29,
+        "code": "QSJz9GhHC0sXFnmjfcdouXmqG5SloQjPUPEj5T1ydrySd6i%2BPCr7ZKVAMM3jdS8xqjKv8%2BzGTIZrB62%2FQhB3yQ%3D%3D",
+        "name": "SULAWESI TENGAH"
+    },
+    {
+        "id": 30,
+        "code": "csnmpZ%2BzAOyKJ7s%2BJ9vFea0MDiJTXKhCz29jvd%2F6GZd487iCRT1z7Z1zJWsd6goP%2FMGWsMnMq%2FFPC7jsfRtkpQ%3D%3D",
+        "name": "SULAWESI UTARA"
+    },
+    {
+        "id": 31,
+        "code": "xoDX5D%2FTOh1dc0E6zJmJImczG36xtLnXaKVKV2p4KO7MeCOdOpe67u6Ih9ep%2FV4Rne1J%2B3YdovJ0LmeRFv0Blg%3D%3D",
+        "name": "SULAWESI BARAT"
+    },
+    {
+        "id": 32,
+        "code": "xV5iZ4mX6RHaeMq4Wgk2r7A9cguaMF5kA282hJ3fQuSc0pscBlWbYVOlyrN0%2FPun82c9lBUURHoveoKzKk00KQ%3D%3D",
+        "name": "MALUKU"
+    },
+    {
+        "id": 33,
+        "code": "8i9axVflGOVbFYLqdM0fbYxTbZijI97dNgwWHhOIFO5wwByOOXylU8KIJGSqI%2BJ10cwGYftxmMG2rs9uUfY3Qw%3D%3D",
+        "name": "MALUKU UTARA"
+    },
+    {
+        "id": 34,
+        "code": "DvGf8EfHYOJT7C85NPl9G3GoR%2BLRyBP7JU%2BjwDF3bduiMBsPd7O%2FKvpKJ39k893esy4hTA7oFPbPkJrHUHpw5w%3D%3D",
+        "name": "PAPUA"
+    },
+    {
+        "id": 35,
+        "code": "%2FHKrH4FRTpXnvw8iubQXVbgTn0tBsLlppljWdU8ZwhNgaG%2BT%2FiQoqSZ5bL8B0AjnXPFWGDaPyEkeGiUkGedcBg%3D%3D",
+        "name": "PAPUA BARAT"
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "code": "XyJIzapigzFF7cf9ZnsY2UqPDECqqpLko0gVO1g7hueptr5hj4l01wyIy4Yj%2B2wY%2FcC0SKUUZnLH4uPYQXqeBA%3D%3D",
+        "name": "KAB. BANJARNEGARA",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 2,
+        "code": "%2FNQdtOQK1Aa%2FxWlUUMa%2FOCEBOlIQ0SYXILQeHTXlT3zL91P7KLjt784Amru5nOtCzeTwolE9eUn4W6mNip8Sdw%3D%3D",
+        "name": "KAB. BANYUMAS",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 3,
+        "code": "lS%2BDz5SVRqeAmYI8awa6ls%2BswRLHxxOouaHIh%2FNz8EvPVKIzqTsDse92nB1jAL3Y0RaTGONbr%2BBAXKAIgzrNyw%3D%3D",
+        "name": "KAB. BATANG",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 4,
+        "code": "qyn07M%2By918Ak1Q4kTo8dx4uXLH7eOSjtXGWtYyXKslaKVYsKvkzmhMWlSszgV6jzXtAo8mV7MBC1dmbjg0D%2FQ%3D%3D",
+        "name": "KAB. BLORA",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 5,
+        "code": "%2B2YtrkIK7zQWWBb0yOhKCmTGWg1FLuRSt9bnKZNNWEAbWVeveRjMJX5m4wmKvIRmgr61oCUrL9stS%2FUZLTZCQw%3D%3D",
+        "name": "KAB. BOYOLALI",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 6,
+        "code": "rToQZV8ZXP2iJl1oYjlBDWmfcBy7OZrFKsRVUfH12HwiA2ZcrwuJRhfBRs4NME5cABjXeOhUh2ofxa%2FcoW18qQ%3D%3D",
+        "name": "KAB. BREBES",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 7,
+        "code": "YJDtCcjGujS4d7o4xi9r8yeqiIg6Hr4Xhqk3jsYFC9Du6j35ez5H1va5arHXzBs4iJbiTn7iJxTe2iWmyV2HzQ%3D%3D",
+        "name": "KAB. CILACAP",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 8,
+        "code": "VZpJ9HcVOBclvXKXWNeZiAucZezAFcwj4gUfYvlOE%2BWB0jxcF%2FmHHIMYrRZ1dnblj3wW%2BK4IHjcOvJLA2%2BHDEw%3D%3D",
+        "name": "KAB. DEMAK",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 9,
+        "code": "Aer7yY8xmYJNamAaklNi8sQ9QN%2FFTZrQSslh5YQwx2bL%2BjdK9Wt1w3oB2bMkNERI3RweUzz4IPlivKaYf6f3Jw%3D%3D",
+        "name": "KAB. GROBOGAN",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 10,
+        "code": "WtH5tv7FK%2BuPRNCSnxj1UoqzlcvxIknIpFPNQIh5WJy3GkcTlkFyRluTTg3YRGmnm47g2Y0OfsBlfTrUtNEftg%3D%3D",
+        "name": "KAB. JEPARA",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 11,
+        "code": "BlkVIOAFAvysujTC4K%2FJRMYrTzA9Y8%2BtkHzkUa1V4v75szbqsMYOnjnzwbIZxoBBPHu2m5QIgSoQoPPwxfn%2BVw%3D%3D",
+        "name": "KAB. KARANGANYAR",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 12,
+        "code": "b8gRToHfwpCUHAno%2BY4MxZQAjQmz1WYzsAOrsR7m70VrLEw0zFYZn%2Fs4j%2FQl0Xm6AowOJ80n7zScbvH3s4MhGA%3D%3D",
+        "name": "KAB. KEBUMEN",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 13,
+        "code": "UFP4%2BfiYqPAjoepoGf7YmjySMp6uRBBj7P96601nGxDHqW6Pth14O5gWEyPD%2Bdud%2B0TAF7z4wAWdFSmvxCVDCg%3D%3D",
+        "name": "KAB. KENDAL",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 14,
+        "code": "pupMLwu5MdeY28j69%2F6F5nLsiWB%2BqDPxWPFL3b3BsgoFgDhQ1mjb1ivWQf3s8%2BznyzNBvVDOJMA7weIswVcG3A%3D%3D",
+        "name": "KAB. KLATEN",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 15,
+        "code": "aR1ekoeO70shPn0Ed%2FzhATsBlS1zBI7wYFdPiF%2F7R7vn1VrynCT4R0rBj9k6p9Xwb6DHmhPYq3YVf8nNa5L%2FUQ%3D%3D",
+        "name": "KAB. KUDUS",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 16,
+        "code": "ZFXX3ZNataIBGMFM8%2BvwjIm6N4fELoipVYMy%2BYaMcAeIS70GVQthWf4nhTlokCISYfs5sgqvHQh8lwxGCI2v7Q%3D%3D",
+        "name": "KAB. MAGELANG",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 17,
+        "code": "cpdWGsK8x69oL%2BtQn5W6sanponTmf%2BnKQOVUu4g%2FlxQ2Og9gNtnHtqcwb5fAIFQmVeBVAJzAXf6bHtfPxv6lag%3D%3D",
+        "name": "KAB. PATI",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 18,
+        "code": "tWUMUHQGozC3dE8hWQcRluRnQSboD%2FK3WkWj6Ac58HOOUCxzmoVePSB1COaFsWmNezhy%2BmcaMn0RbhdgBhGg5Q%3D%3D",
+        "name": "KAB. PEKALONGAN",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 19,
+        "code": "8QIIWeQCEf%2BzvQUDSY%2FIFWPxZvO3ThaGyhYBEFMkC2lKQ7QX%2BdHggdnBlnY64SZWrNkWV3fXBUumTPJ4EwsqMg%3D%3D",
+        "name": "KAB. PEMALANG",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 20,
+        "code": "SjWiX%2Bsv%2FmthicM2GnKRzDEH36365rcQo2XNUBr5uUHxCJdQNgjqiuN2vefRdrGW%2F%2BQnHNGvM43CQZvkJ%2FlEjA%3D%3D",
+        "name": "KAB. PURBALINGGA",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 21,
+        "code": "fyC2sxOjNS9syZwa1JO8%2BbP8ia6bANSY%2FyRhZ0o6gK2FysoGd8TIEUpdXWh%2FgYVgU%2BCqgrhLX5oa6T79ieKU4g%3D%3D",
+        "name": "KAB. PURWOREJO",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 22,
+        "code": "a%2BxDM7v79NVNmqOtlrLwrfFoObrpNbAy769oDlhorwFtz9xKz%2F3zTMFx64vNBzCBkczPhSbteiPJCM2TESHoiA%3D%3D",
+        "name": "KAB. REMBANG",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 23,
+        "code": "LCFyHJF8YPaJjcxet6y%2FgRAEgWHq3340U3dEui71VvrKZq%2FR%2BuNfHtDB%2FUbaQc%2FvGMGM1VB9UE62K%2BSaDf7%2Feg%3D%3D",
+        "name": "KAB. SEMARANG",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 24,
+        "code": "vw1SPWwEXt3GYx8za6M4dwN3vL0mPNiU2Mq9DnqDchSI64W0fzFDjQc8hi0qL6CEYkWe4otRhh2f7MGUEMN7Ug%3D%3D",
+        "name": "KAB. SRAGEN",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 25,
+        "code": "5q1OFlpcjrEnlW3ghn4qPFdvMVaaOlbBqNC8QnZQr1UA6mbh0JKDqKv5%2BORXaTeUslFhzCHi5U7z7lmoEguqVg%3D%3D",
+        "name": "KAB. SUKOHARJO",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 26,
+        "code": "uP1ReL9EmTZz4OF3q9H2JAu7O8YXU0jVbuJfkFiMrqA0%2FbGWVXgPehCYsybv%2FPuhaQJs%2BV%2FqKbKN6pm6bWOTZw%3D%3D",
+        "name": "KAB. TEGAL",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 27,
+        "code": "ncJBZSQBRq6fK9t3SV09bIzv4l0neXGmoeDMvGZBpM%2BM5etr%2FGk%2B24bDiz0HsK2iLch6zek2BxV8BcN%2B5VjDrA%3D%3D",
+        "name": "KAB. TEMANGGUNG",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 28,
+        "code": "KDi6FpLs%2BoEG5e6LX5xjA1OTI5UPzxlaLhZScpJr86o0ss6KvrUF26vUqC1RNiMiNT8Z2EYEutBJDG3ROGbBQQ%3D%3D",
+        "name": "KAB. WONOGIRI",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 29,
+        "code": "VTQ%2Fl3Am6ECu4M%2BGV4l1Hwl3BR%2FM4p%2FDUVDKQ5XQLR3R1A6XnJOS9Jpe%2FjsR5TEzHOOvscw3Dzgm2oP4QWpjxQ%3D%3D",
+        "name": "KAB. WONOSOBO",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 30,
+        "code": "G1aRFK75khI%2BdwDzU63pvjPKmbS6TVgKjQbGkQZlBtaT5e2FUXeSO4aZBZ%2BuRdGgSnlU6FBqbgU70LXRzN1Axw%3D%3D",
+        "name": "KOTA MAGELANG",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 31,
+        "code": "jWDsF6GG%2Fiql5oTpJIOkwinnOf8uLxYtXlaq5zuq7%2B%2F6VH0zFxiEuvBvg0hDrf%2Fi%2Fx8E4x8%2B2qkO7XfFWIhYMQ%3D%3D",
+        "name": "KOTA PEKALONGAN",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 32,
+        "code": "YfqH8LIz%2B9CweU9b%2FDoSWzuCkTXxaDS6fyFC6QAn7Df32rHNiRGpgxPwzEiIEfJTbzYxPL5ugM9MgQ%2F8fHCBBA%3D%3D",
+        "name": "KOTA SALATIGA",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 33,
+        "code": "0mcjSm5RCTmb9Q9Zd1XL5afo2%2FU%2FDLqCU5yME11fvxvd1MzINiWApirWIVeSVPXLKrtl%2BJ%2FclRx%2FaU7DCev1UQ%3D%3D",
+        "name": "KOTA SEMARANG",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 34,
+        "code": "L67XAcvzEf6J5DG%2BcR55KlxdizZzencCrxv02Lu1yKArpuirQdhQ1epM79NhZriAaV33ErNFlmssuado%2BJRLdQ%3D%3D",
+        "name": "KOTA SURAKARTA",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    },
+    {
+        "id": 35,
+        "code": "1EL7kLx1D%2Fs2t0oF%2F0gLK9khoVlT6FfhjHznH614zlVcNklKHSY9fW36BJql38arX8lN2ZQXoP6nYxR9yjdMWw%3D%3D",
+        "name": "KOTA TEGAL",
+        "state": {
+            "id": 15,
+            "code": "6LoSW8f3n%2F%2FZESP8H%2B5pWRA%2F%2BemLrg67rbWZWm9%2Fx2KZ97lqEpSeRiH94WyxnOQyTNZX%2FEsObmFTFtc26hxbZQ%3D%3D",
+            "name": "JAWA TENGAH"
+        }
+    }
+]
